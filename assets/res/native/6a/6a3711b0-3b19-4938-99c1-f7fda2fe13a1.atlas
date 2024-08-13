@@ -1,0 +1,165 @@
+
+loading_ani.png
+size: 2011,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball01
+  rotate: true
+  xy: 1306, 696
+  size: 163, 258
+  orig: 175, 258
+  offset: 12, 0
+  index: -1
+banana
+  rotate: false
+  xy: 535, 2
+  size: 499, 442
+  orig: 501, 445
+  offset: 0, 0
+  index: -1
+box01
+  rotate: false
+  xy: 973, 720
+  size: 170, 139
+  orig: 172, 141
+  offset: 1, 1
+  index: -1
+box02
+  rotate: false
+  xy: 539, 745
+  size: 127, 114
+  orig: 129, 116
+  offset: 1, 1
+  index: -1
+boy01
+  rotate: true
+  xy: 1145, 710
+  size: 149, 159
+  orig: 155, 161
+  offset: 1, 1
+  index: -1
+boy02
+  rotate: true
+  xy: 109, 806
+  size: 53, 63
+  orig: 57, 64
+  offset: 0, 0
+  index: -1
+boy03
+  rotate: false
+  xy: 418, 755
+  size: 119, 104
+  orig: 119, 104
+  offset: 0, 0
+  index: -1
+boy04
+  rotate: false
+  xy: 2, 809
+  size: 105, 50
+  orig: 109, 50
+  offset: 4, 0
+  index: -1
+coin01
+  rotate: true
+  xy: 315, 784
+  size: 75, 101
+  orig: 77, 103
+  offset: 1, 1
+  index: -1
+coin02
+  rotate: true
+  xy: 174, 804
+  size: 55, 59
+  orig: 57, 64
+  offset: 1, 4
+  index: -1
+coin03
+  rotate: false
+  xy: 235, 797
+  size: 78, 62
+  orig: 80, 64
+  offset: 1, 1
+  index: -1
+girl01
+  rotate: true
+  xy: 2, 78
+  size: 397, 531
+  orig: 615, 559
+  offset: 218, 25
+  index: -1
+girl02
+  rotate: false
+  xy: 1230, 299
+  size: 443, 369
+  orig: 443, 369
+  offset: 0, 0
+  index: -1
+grass01
+  rotate: true
+  xy: 316, 477
+  size: 266, 268
+  orig: 266, 280
+  offset: 0, 0
+  index: -1
+grass02
+  rotate: false
+  xy: 668, 740
+  size: 303, 119
+  orig: 306, 119
+  offset: 1, 0
+  index: -1
+grass03
+  rotate: false
+  xy: 2, 541
+  size: 312, 241
+  orig: 314, 243
+  offset: 2, 0
+  index: -1
+logo_2
+  rotate: false
+  xy: 1566, 670
+  size: 443, 189
+  orig: 444, 196
+  offset: 1, 4
+  index: -1
+stone03
+  rotate: false
+  xy: 586, 446
+  size: 642, 262
+  orig: 644, 264
+  offset: 1, 1
+  index: -1
+
+loading_ani2.png
+size: 1991,533
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stone01
+  rotate: false
+  xy: 2, 109
+  size: 1264, 422
+  orig: 1264, 422
+  offset: 0, 0
+  index: -1
+stone02
+  rotate: true
+  xy: 1268, 2
+  size: 529, 721
+  orig: 531, 723
+  offset: 1, 1
+  index: -1
+
+loading_ani3.png
+size: 1654,853
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 1650, 849
+  orig: 1652, 851
+  offset: 1, 1
+  index: -1
